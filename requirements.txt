@@ -13,4 +13,4 @@ dicom==0.9.9.post1
 itk==4.13.0
 progressbar2==3.34.3
 skimage==0.0
-tensorflow==1.12.2
+tensorflow==2.0.0
